@@ -5,9 +5,9 @@
 <p align="center">
 <strong>Your Interest, Your Summaries: Query-Focused Long Video Summarization</strong></h1>
   <p align="center">
-    <a href='https://xiaotong-lin.github.io/' target='_blank'>Nirav Patel</a>&emsp;
-    <a href='https://tmliang.github.io/' target='_blank'>Payal Prajapati</a>&emsp;
-    <a href='https://www.isee-ai.cn/~hujianfang/' target='_blank'>Maitrik Shah</a>&emsp;
+    <a href='https://srkds.github.io/' target='_blank'>Nirav Patel</a>&emsp;
+    <a href='https://ldce.ac.in/faculty/payal.prajapati.129' target='_blank'>Payal Prajapati</a>&emsp;
+    <a href='https://ldce.ac.in/faculty/maitrik.shah.246' target='_blank'>Maitrik Shah</a>&emsp;
     <br>
     L. D. College of Engineering
     <br>
